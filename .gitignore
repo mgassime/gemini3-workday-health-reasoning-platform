@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ============================
+# Project-specific (Workday Health Platform)
+# ============================
+
+# Local user data + AI outputs (privacy)
+data/
+*_user_input.json
+*_ai_output.json
+global_context_summary.json
+context_summaries.json
+reminder_schedule.json
+
+# Gemini / API secrets
+*.env
+.env.*
+apikey.txt
+
+# Notebook artifacts
+.ipynb_checkpoints/
