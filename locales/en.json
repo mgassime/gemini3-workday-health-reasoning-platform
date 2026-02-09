@@ -1,0 +1,5 @@
+{
+  "app.title": "Workday Health Reasoning Platform",
+  "app.subtitle": "Privacy-first, local-only, context-aware health assistant for desk workers.",
+  "msg.local_only": "All data is stored locally on this device. Nothing is uploaded unless you call the model."
+}
