@@ -1,0 +1,216 @@
+[
+  {
+    "timestamp": "2026-02-06T01:26:05.143475",
+    "user_input": {
+      "well_rested": false,
+      "sleep_hours": "5-7 hours"
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:33:28.725769",
+    "user_input": {
+      "well_rested": false,
+      "sleep_hours": "5-7 hours"
+    }
+  },
+  {
+    "timestamp": "2026-02-06T23:18:04.056942",
+    "user_input": {
+      "height": 170,
+      "weight": 90,
+      "bp_systolic": 125,
+      "bp_diastolic": 85,
+      "rhr": 80,
+      "body_fat": 0,
+      "waist_cm": 0,
+      "activity_level": "Sedentary",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-07T01:32:28.796510",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Standard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Hum/White Noise",
+      "temperature": "Comfortable",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-07T01:59:00.566216",
+    "user_input": {
+      "water_intake": 3,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T02:48:29.943078",
+    "user_input": {
+      "height": 170,
+      "weight": 90,
+      "bp_systolic": 185,
+      "bp_diastolic": 125,
+      "rhr": 80,
+      "body_fat": 0,
+      "waist_cm": 0,
+      "activity_level": "Sedentary",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:50:39.763749",
+    "user_input": {
+      "pain_level": 5,
+      "onset_timing": "Mid-Day",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Lower Back"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Full & Painless",
+      "seated_duration": "1 hour",
+      "morning_stiffness": false,
+      "good_posture": true,
+      "triggers": [
+        "Stress/Tension",
+        "Cold Temperature",
+        "Poor Sleep"
+      ],
+      "relief_methods": [
+        "Stretching",
+        "Walking",
+        "Painkillers",
+        "Rest"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:55:45.054013",
+    "user_input": {
+      "notes": "",
+      "hb": 15,
+      "wbc": 10000,
+      "platelets": 298,
+      "glucose": 100,
+      "hba1c": 5,
+      "cholesterol": 210,
+      "triglycerides": 160,
+      "vit_d": 25,
+      "vit_b12": 200,
+      "tsh": 0.4,
+      "custom_name": "",
+      "custom_value": null,
+      "custom_unit": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:06.679239",
+    "user_input": {
+      "notes": "",
+      "hb": 15,
+      "wbc": 10000,
+      "platelets": 298,
+      "glucose": 100,
+      "hba1c": 5,
+      "cholesterol": 210,
+      "triglycerides": 160,
+      "vit_d": 25,
+      "vit_b12": 200,
+      "tsh": 0.4,
+      "custom_name": "",
+      "custom_value": null,
+      "custom_unit": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:21.805503",
+    "user_input": {
+      "pain_level": 5,
+      "onset_timing": "Mid-Day",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Lower Back"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Full & Painless",
+      "seated_duration": "1 hour",
+      "morning_stiffness": false,
+      "good_posture": true,
+      "triggers": [
+        "Stress/Tension",
+        "Cold Temperature",
+        "Poor Sleep"
+      ],
+      "relief_methods": [
+        "Stretching",
+        "Walking",
+        "Painkillers",
+        "Rest"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:47.959331",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:58:25.750563",
+    "user_input": {
+      "focus_quality": 5,
+      "deep_work": 0.0,
+      "flow_state": false,
+      "satisfaction": false,
+      "health_tax": 0,
+      "blocker": "None",
+      "peak_energy": "Late Morning",
+      "slump_severity": "Mild dip",
+      "top_distraction": "Notifications/Email",
+      "context_switching": "Low (Single Tasking)",
+      "methods": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:33:07.886411",
+    "user_input": {
+      "well_rested": false,
+      "sleep_hours": "5-7 hours",
+      "screen_cutoff": false,
+      "blue_light_filter": false,
+      "evening_movement": false,
+      "stress_level": 6,
+      "room_comfort": "Noisy"
+    }
+  }
+]

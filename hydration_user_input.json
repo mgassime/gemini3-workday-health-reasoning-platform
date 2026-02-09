@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "2026-02-06T00:46:21.172912",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:25:54.103036",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:33:17.485250",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T05:38:03.060808",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T22:59:10.879559",
+    "user_input": {
+      "water_intake": 5,
+      "caffeine_intake": 2.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 1.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Mildly Thirsty",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T22:59:59.821114",
+    "user_input": {
+      "water_intake": 5,
+      "caffeine_intake": 2.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 1.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Mildly Thirsty",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:37:05.660238",
+    "user_input": {
+      "water_intake": 8,
+      "caffeine_intake": 2.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 1.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Mildly Thirsty",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:38:00.671537",
+    "user_input": {
+      "water_intake": 8,
+      "caffeine_intake": 2.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 1.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Mildly Thirsty",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:43:54.030419",
+    "user_input": {
+      "water_intake": 7,
+      "caffeine_intake": 2.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 2.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Mildly Thirsty",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:53:56.813361",
+    "user_input": {
+      "water_intake": 7,
+      "caffeine_intake": 3.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 3.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Very Thirsty / Parched",
+      "symptoms": [
+        "Dry Mouth/Lips",
+        "Headache"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:05:26.840835",
+    "user_input": {
+      "water_intake": 5,
+      "caffeine_intake": 5.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 3.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:11:50.912082",
+    "user_input": {
+      "water_intake": 9,
+      "caffeine_intake": 4.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 3.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:18:52.816574",
+    "user_input": {
+      "water_intake": 13,
+      "caffeine_intake": 4.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 5.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:22:28.271833",
+    "user_input": {
+      "water_intake": 6,
+      "caffeine_intake": 3.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 3.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  }
+]
